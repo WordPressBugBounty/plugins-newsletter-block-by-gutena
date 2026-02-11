@@ -1,8 +1,8 @@
 === Gutena Newsletter - Subscriber Block & Connect Mailchimp ===
-Contributors: expresstech, infosatech
+Contributors: wpexpertsio
 Tags: newsletter, mailchimp, block, email subscribers, email automation
 Requires at least: 5.9
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.1.6
 Requires PHP: 5.6
 License: GPLv3
